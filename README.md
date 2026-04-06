@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jay Vues
+# 👋 Hi, I'm Jay
 
 [![Website](https://img.shields.io/badge/Website-jayvues.web.app-blue)](https://jayvues.web.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jay%20Vues-blue?logo=linkedin)](https://www.linkedin.com/in/jayvues)  
