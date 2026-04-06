@@ -1,11 +1,7 @@
 # 👋 Hi, I'm Jay 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jayvues.web.app-blue)](https://jayvues.web.app)  
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jay%20Vues-blue?logo=linkedin)](https://www.linkedin.com/in/jayvues)  
-
-[![Email](https://img.shields.io/badge/Email-t.kumar@outlook.fr-red?logo=gmail)](mailto:t.kumar@outlook.fr)
-
 ---
 
 ## 🖥 About Me
