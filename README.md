@@ -5,7 +5,7 @@
 ---
 
 ## 🖥 About Me
-I am a **Senior Full-Stack Developer & AI Automation Specialist** with a **diverse IT background** in web development, server administration, cybersecurity, and multimedia. Recognized as a **professional with RQTH (lombalgie)**, I focus on roles that are primarily computer-based.  
+I am a **Senior Full-Stack Developer & AI Automation Specialist** with a **diverse IT background** in web development, server administration, cybersecurity, and multimedia. 
 
 I excel in building **enterprise-grade web applications**, automating workflows, and implementing modern web and AI solutions. I thrive in collaborative environments, love learning new technologies, and applying them to solve real-world problems.
 
@@ -36,7 +36,6 @@ A modern full-stack web application with **React, Firebase, Tailwind CSS**.
 - 🔒 Role-based authentication & secure database  
 - 🖥 Responsive UI/UX design for desktop and mobile  
 - ⚡ Real-time data with Firestore  
-- 🧪 CI/CD pipelines with GitHub Actions  
 
 ### **[WordPress Volunteer Projects](https://github.com/jay-vues)**
 Developed and maintained WordPress-based websites for NGOs and small businesses.  
@@ -56,17 +55,6 @@ Full-stack e-commerce projects using **React, Node.js, Firebase, and PHP**.
 
 ![Jay-Vues GitHub stats](https://github-readme-stats.vercel.app/api?username=jay-vues&show_icons=true&hide_border=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-vues&layout=compact&theme=tokyonight)
-
----
-
-## 🎓 Education & Certifications
-
-- **Concepteur Développeur d'Applications (Bac+4)** – Greta de l’Essonne, FR  
-- **Développeur Web & Web Mobile (Bac+2)** – Greta de l’Essonne, FR  
-- **Online Courses:**  
-  - ISC2 Certified in Cybersecurity (2025)  
-  - IT & Cybersecurity Risk Management (2023)  
-  - Diploma in Identity Access Management & Digital Network Security (2023)  
 
 ---
 
