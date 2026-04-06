@@ -18,6 +18,7 @@ I excel in building **enterprise-grade web applications**, automating workflows,
 - **Backend:** Node.js, PHP, Java, Express.js, WordPress/WooCommerce  
 - **Database:** MongoDB, Firebase, MySQL  
 - **Tools & Versioning:** Git, GitHub, Postman, Selenium, Agile  
+- **Util:** SEO, GEO
 
 ### **Office & Productivity**
 - Office 365 Suite | CMS | Video & Graphic Tools (Photoshop, Illustrator, CorelDraw, Canva, Filmora)
