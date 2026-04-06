@@ -29,35 +29,6 @@ I excel in building **enterprise-grade web applications**, automating workflows,
 
 ---
 
-## 🚀 Featured Projects
-
-### **[JayVues Web App](https://jayvues.web.app)**
-A modern full-stack web application with **React, Firebase, Tailwind CSS**.  
-- 🔒 Role-based authentication & secure database  
-- 🖥 Responsive UI/UX design for desktop and mobile  
-- ⚡ Real-time data with Firestore  
-
-### **[WordPress Volunteer Projects](https://github.com/jay-vues)**
-Developed and maintained WordPress-based websites for NGOs and small businesses.  
-- WooCommerce integration  
-- SEO optimization and responsive design  
-
-### **[E-Commerce Web Apps](https://github.com/jay-vues)**
-Full-stack e-commerce projects using **React, Node.js, Firebase, and PHP**.  
-- Payment integration (Stripe)  
-- Inventory & order management  
-
-> Pin these repositories to your GitHub profile for maximum visibility.
-
----
-
-## 📊 GitHub Stats
-
-![Jay-Vues GitHub stats](https://github-readme-stats.vercel.app/api?username=jay-vues&show_icons=true&hide_border=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-vues&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Languages
 
 | Language | 
@@ -75,5 +46,39 @@ Full-stack e-commerce projects using **React, Node.js, Firebase, and PHP**.
 - Organization & Problem-Solving  
 
 ---
+## 🛠 Tools & Software Expertise
 
+### **Development & Web**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?logo=woocommerce&logoColor=white)
+
+### **Office & Productivity**
+![Office 365](https://img.shields.io/badge/Office_365-D83B01?logo=microsoft-office&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white)
+![CorelDraw](https://img.shields.io/badge/CorelDraw-FF6600?logo=coreldraw&logoColor=white)
+![Filmora](https://img.shields.io/badge/Filmora-1ABC9C?logo=filmora&logoColor=white)
+
+### **Database & Backend Tools**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+### **Version Control & Collaboration**
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
+### **Cybersecurity & IT**
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-008080?logo=keybase&logoColor=white)
+![RGPD](https://img.shields.io/badge/RGPD-0055A4?logo=privacy-dot-tools&logoColor=white)
 
